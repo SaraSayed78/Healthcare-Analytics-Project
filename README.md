@@ -10,7 +10,7 @@ This project transforms raw, inconsistent healthcare transactional data into a p
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.jpg)
 
 ---
 
