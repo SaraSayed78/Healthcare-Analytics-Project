@@ -9,6 +9,11 @@ This project transforms raw, inconsistent healthcare transactional data into a p
 
 ---
 
+## 📊 Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
+---
+
 ## 🛠️ Tools & Technologies Used
 * **Data Cleaning & ETL:** Power Query (Excel)
 * **Data Modeling & Aggregation:** Pivot Tables & Pivot Charts
