@@ -38,7 +38,7 @@ This project transforms raw, inconsistent healthcare transactional data into a p
 ---
 
 ## 🎥 Project Walkthrough Video
-[Watch the Full Project Demonstration on YouTube/Drive Link Here]
+[Watch the Project Walkthrough Video](https://drive.google.com/open?id=14-Qd1gw_OwhSjKlFHSYtHzVUr4952ick&usp=drive_fs)
 
 ---
 *Developed by Sara Sayed*
